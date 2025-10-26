@@ -507,6 +507,7 @@ class DataManager {
             products: [
                 { id: 1, name: 'Shampoo Premium', price: 12000, category: 'capilar', stock: 50 },
                 { id: 2, name: 'Crema Hidratante', price: 8000, category: 'piel', stock: 30 }
+                { id: 3, name: 'Kit de manicura / pedí', price: 20000, category: 'higiene', stock: 70 }
             ],
             contact: {
                 phone: '+240 222 123456',
